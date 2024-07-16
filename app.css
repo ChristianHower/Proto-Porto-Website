@@ -1,0 +1,47 @@
+
+
+* {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    font-weight: 100;
+}
+
+img {
+    border-radius: 50%;
+    vertical-align: center;
+    margin-right: 10px;
+    margin-left: 0px;
+}
+
+.container {
+    display: flex;
+    width: 30%;
+    padding: 30px;
+}
+
+.titletext {
+    margin-left: 10px;
+    text-align: left;
+    vertical-align: center;
+}
+
+.grouptext {
+    margin-left: 0px;
+}
+
+.toptext {
+    color: white;
+}
+
+.midtext {
+    color: rgb(175, 175, 175);
+}
+
+.bottext {
+    color: rgb(100, 100, 100);
+}
+
+.linktext {
+    display: inline-block;
+}
